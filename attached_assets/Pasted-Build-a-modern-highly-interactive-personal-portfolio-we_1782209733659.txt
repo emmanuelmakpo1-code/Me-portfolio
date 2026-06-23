@@ -1,0 +1,23 @@
+Build a modern, highly interactive personal portfolio website for a full-stack/mobile developer that showcases apps, websites, and projects in a premium, animated style inspired by modern creative portfolios like https://enochagram.vercel.app. The website should feel like a polished product landing page rather than a traditional CV.
+
+Use Next.js (or React), Tailwind CSS, and Framer Motion for smooth animations. The design should follow a dark mode aesthetic by default with a sleek, minimal, and futuristic UI. Use a strong accent color (neon blue, purple, or green gradient) consistently across buttons, highlights, and hover states. Include glassmorphism cards, soft shadows, and smooth hover transitions. Typography should be bold and modern for headings and clean and readable for body text.
+
+The website structure should include the following sections:
+
+Start with a hero section featuring the developer’s name in large bold text, a short professional title (e.g. Full-Stack Developer / Mobile App Developer), and a short impactful tagline like “I build modern digital experiences that solve real problems.” Include two primary call-to-action buttons: “View Projects” and “Contact Me.” Add subtle animated background effects such as gradient blobs or particle motion. Optional typing animation can display skills or roles.
+
+Next is an about section with a clean two-column layout: a profile image on one side and a short bio on the other. Include a brief description of the developer, technologies used (Flutter, React, Next.js, C++, UI/UX tools), and optional stats like number of projects or experience.
+
+Then include a skills section using interactive cards or progress-style indicators grouped into frontend, mobile development, backend, and tools/design. Each card should have hover animations and a glowing highlight effect.
+
+The projects section is the most important part. Display projects in a responsive grid layout with cards showing project name, short description, tech stack tags, and preview images. Each card should have buttons for live demo and GitHub. Clicking a project should open a modal or detailed view showing full description, screenshots, features, and challenges solved. The design should make each project feel like a product showcase.
+
+Optionally include a timeline/experience section using a vertical layout showing roles, organizations, duration, and achievements in a clean minimal style.
+
+Add a contact section with email, social links (GitHub, LinkedIn, Twitter optional), and an optional contact form with name, email, and message fields. Include subtle form submission animation.
+
+Finish with a simple footer containing the developer name, copyright text, and a short tagline.
+
+Ensure the entire site is fully responsive across all devices, optimized for performance, and visually smooth. Add animations such as fade-in on scroll, hover scaling, smooth page transitions, and subtle motion effects—but keep it professional and not overdone.
+
+The final output should be a production-ready portfolio website that is easy to deploy on Vercel, well-structured, reusable, and visually impressive.

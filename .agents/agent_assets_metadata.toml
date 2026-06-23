@@ -1,0 +1,44 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "939P0R0zwI3AGbqEsL9ag"
+uri = "file://attached_assets/profile.png"
+type = "image"
+title = "Developer profile photo"
+
+[[generated]]
+id = "BZBd_djjvtV2x3LkWG9B5"
+uri = "file://attached_assets/ecotrack.png"
+type = "image"
+title = "EcoTrack app mockup"
+
+[[generated]]
+id = "HUFMGNvIFjw6LscbmcP9S"
+uri = "file://attached_assets/devflow.png"
+type = "image"
+title = "DevFlow dashboard mockup"
+
+[[generated]]
+id = "i0j3NadYYzuP4Qko-dVLD"
+uri = "file://attached_assets/shopsphere.png"
+type = "image"
+title = "ShopSphere platform mockup"
+
+[[generated]]
+id = "Zj3FUuN8fmy9JuqP2Fnoe"
+uri = "file://attached_assets/mindspace.png"
+type = "image"
+title = "MindSpace app mockup"
+
+[[generated]]
+id = "TV8-uo1B_PpVbAbq3CIcy"
+uri = "file://attached_assets/codecollab.png"
+type = "image"
+title = "CodeCollab editor mockup"
+
+[[generated]]
+id = "glFllhEJ4bJ90_8rgZ99T"
+uri = "file://attached_assets/datapulse.png"
+type = "image"
+title = "DataPulse dashboard mockup"
